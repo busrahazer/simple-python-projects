@@ -1,3 +1,9 @@
+# File Reader with Python
+# This code allows you to read file content using Python.
+# Run the project:
+#     python readfile.py (for Windows)
+#     python3 readfile.py (for Linux)
+
 file_name = "file_name"
 
 try:
