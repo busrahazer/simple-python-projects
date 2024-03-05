@@ -1,6 +1,6 @@
-# Simple Python Project
+# Simple Python Scripts
 
-Python projects at a basic level.
+Python scripts at a basic level.
 
 ## Requirements
 

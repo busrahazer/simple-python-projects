@@ -8,9 +8,9 @@ import os
 
 def convert_files_in_directory(directory):
     for filename in os.listdir(directory):
-        if filename.endswith(".svg"):
+        if filename.endswith(".svg"):    # Type your file extension
             input_file = os.path.join(directory, filename)
-            output_file = os.path.join(directory, filename + ".csv")
+            output_file = os.path.join(directory, filename + ".csv") # Type the extension of the format you want to convert the file to
             # File Convert
             with open(input_file, 'r') as f:
                 content = f.read()

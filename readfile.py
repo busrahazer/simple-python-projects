@@ -4,7 +4,7 @@
 #     python readfile.py (for Windows)
 #     python3 readfile.py (for Linux)
 
-file_name = "file_name"
+file_name = "file_name"  # Type your file name here
 
 try:
     with open(file_name, "r") as file:
